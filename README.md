@@ -12,5 +12,5 @@ Feel free to check out some of my work. 😊
 
 ### Computer Science student at University of Cincinnati
 ![UC](./img/uc-logo.jpg)
-### **Available for co-op in Summer, 2024**
+### **Intern at MRI Software.**
 ### [Click here to see my resume!](https://grabercn.github.io/docs/Graber_Christian_Resume_2024.pdf)
