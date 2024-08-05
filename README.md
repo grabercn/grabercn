@@ -12,6 +12,4 @@ Feel free to check out some of my work. 😊
 
 ### Computer Science student at University of Cincinnati
 ![UC](./img/uc-logo.jpg)
-### **Intern at MRI Software.**
-![MRI](https://yt3.ggpht.com/a/AGF-l7-I3Jyhs2ySvZcabvuqVKkeHBvR9AXKCl_Kfw=s900-mo-c-c0xffffffff-rj-k-no)
 ### [Click here to see my resume!](https://grabercn.github.io/docs/Graber_Christian_Resume_2024.pdf)
