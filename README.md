@@ -9,7 +9,7 @@ Feel free to check out some of my work. 😊
 [![Mail](./img/icons8-mail-48.png)](mailto:grabercn@mail.uc.edu)
 
 ## About Me
-
+### [Click here to see my resume!](https://grabercn.github.io/docs/Graber_Christian_Resume_2024.pdf)
 ### Computer Science student at University of Cincinnati
 ![UC](./img/uc-logo.jpg)
-### [Click here to see my resume!](https://grabercn.github.io/docs/Graber_Christian_Resume_2024.pdf)
+
