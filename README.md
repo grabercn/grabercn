@@ -19,7 +19,7 @@
 
 ### 💼 **Actively Looking for Full-Time, Software Engineer Position**
 
-[![Resume Button](https://img.shields.io/badge/View%20My%20Resume-blue?style=for-the-badge)](./Graber_Christian_Resume_2024.pdf)
+[![Resume Button](https://img.shields.io/badge/View%20My%20Resume-blue?style=for-the-badge)](https://grabercn.github.io/docs/Graber_Christian_Resume_2024.pdf)
 
 ## 💻 GitHub Profile Stats
 
