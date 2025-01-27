@@ -10,9 +10,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science student at the University of Cincinnati
-- 📡 Currently on internship with [Leonardo DRS Airborne & Intelligence Systems](https://www.leonardodrs.com/who-we-are/our-segments/airborne-intelligence-systems/) working on data visualization of radio communications in C++
+- 📡 Currently on internship with [Leonardo DRS Airborne & Intelligence Systems](https://www.leonardodrs.com/who-we-are/our-segments/airborne-intelligence-systems/) working on integrated systems
 - 🛠️ Previous experience in industry:
-  - Software Engineer Intern at [MRI Software](https://www.mrisoftware.com/about/) working with C# and .NET on real estate software for 3 months
+  - Software Engineer Intern at [MRI Software](https://www.mrisoftware.com/about/) working with C# and .NET on real estate software for 4 months
   - Software Engineer Intern at [Midmark Corporation](https://www.midmark.com/about-us) working with TypeScript, React, and C# on the company website for 6 months
 - 🤖 Treasurer of the [UC Robotics Club](https://ucrobotics.gitlab.io/) working on object detection and avoidance in OpenCV
 - 🧑‍💻 Developing a [social media platform](https://github.com/grabercn/ForumHub-FrontEnd) using React, ASP.NET, and Azure Cloud Services
